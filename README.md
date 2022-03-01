@@ -1,0 +1,2 @@
+# PracticeAPPdevNXT
+Creating sample applications
